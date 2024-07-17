@@ -112,4 +112,3 @@ kubectl logs pod-name
 
 - [Docker](https://www.docker.com/)
 - [Minikube](https://minikube.sigs.k8s.io/docs/)
-# example-voting-k8s
